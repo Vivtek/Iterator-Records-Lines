@@ -1,0 +1,5 @@
+This is a test file.
+It has a total of three lines.
+    The third line is indented.
+
+Oh, wait. Five lines, the fourth of which is blank.
